@@ -9,3 +9,8 @@
     height: 500px;
     background-color: palevioletred;
 }
+
+.item{
+    width: 60px;
+    height: 60px;
+}
